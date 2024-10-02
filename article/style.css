@@ -1,0 +1,161 @@
+body{
+    background-color: #407088;
+    padding: 0px;
+}
+
+#main-heading{
+    justify-content: center;
+    text-align: center;
+    font-size: 300%;
+
+}
+#para-1{
+    justify-content: center;
+    text-align: center;
+    background-color:   #a5bdfd;
+    display: block; 
+    color: black;
+}
+
+#div-1{
+    background-color:  #1d1919;
+    color:white;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+   display: flex;
+   position: relative;
+
+    
+}
+
+#div-2{
+    font-size: 200%;
+    background-color:  #a5bdfd;
+
+    height: 50px;
+    align-items: center;
+    justify-content:center ;
+    text-align: center;
+    
+
+}
+.fa-react{
+    font-size: 50px;
+    justify-content: first baseline;
+}
+
+#main-h2{
+    position: relative;
+    font-size: 350%;
+    width: 100%;
+}
+
+a{
+    size: 50px;
+    display: flex;
+    align-items: center;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    align-items: flex-end;
+    justify-content:flex-end ;
+}
+
+li a:hover{
+    color: blue;
+    }
+#react-article{
+           width: 100%;
+           font-size: 55%;
+           background-color:  #a5bdfd;
+           text-align: center;
+           border-radius: 10px;
+}
+img{
+    width: 400px;
+    display: block;
+    float: right;
+    border: 5px solid black;
+    border-radius: 8px;
+    height: 256px;
+
+}
+
+#react-article2{
+    width: 100%;
+    font-size: 55%;
+    background-color:  #a5bdfd ;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+#react-article3{
+    width: 100%;
+    font-size: 55%;
+    background-color:  #a5bdfd;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.parentList ul li{
+    display: flex;
+    gap: 15px;
+}
+.parentList ul li a{
+    color: whitesmoke;
+}
+
+#main-h3{
+
+    font-size: 190%;
+    width: 100%;
+    text-align: end;
+}
+#nextjs-icon{
+    float: left;
+
+}
+
+#nextjs-article{
+    width: 100%;
+    font-size: 55%;
+    background-color:  #a5bdfd;
+    text-align: center;
+}
+
+#parent-footer{
+    justify-content: center;
+    display: flex;
+    gap: 15px;
+    color: whitesmoke;
+    border-radius: 50%;
+    /* background-color: white; */
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+#parent-footer a i{
+    color: whitesmoke;
+}
+
+#footer{
+ background-color:   #1d1919;
+}
+p{
+    color: white;
+    font-size: large;
+}
+article{
+    border-radius: 10px;
+}
